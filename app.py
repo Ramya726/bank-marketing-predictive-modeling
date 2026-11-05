@@ -22,7 +22,7 @@ MODEL_FILES = {
 }
 
 st.set_page_config(
-    page_title="BankScope Marketing | Classification ",
+    page_title="BankData Marketing | Classification ",
     page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -106,8 +106,8 @@ def evaluate_one(name: str, model_path: Path, X: pd.DataFrame, y_true: pd.Series
 
 
 with st.sidebar:
-    st.markdown("## 📈 BankMarketing")
-    st.caption("Bank Marketing · ML Assignment 2")
+    st.markdown("## 📈 Bank Marketing")
+    st.caption("Bank Marketing · ML Classification")
     page = st.radio(
         "NAVIGATION",
         ["Overview", "Evaluate models", "Compare models", "Dataset & methodology"],

@@ -21,11 +21,11 @@ Preprocessing should encode categorical variables and apply any numerical scalin
 
 ## c. GitHub Repository Link
 
-**GitHub Repository:** https://github.com/RajapandiAI/BANKMARKETING-MLASSIGNMENT2
+**GitHub Repository:** https://github.com/Ramya726/bank-marketing-predictive-modeling
 
 The repository should include the application, training code, dependency list, test CSV, saved trained models and preprocessing artifacts, and this README. Confirm that the required files and model artifacts are committed and visible in the repository before submission.
 
-**Streamlit Application:** https://bankmarketing-mlassignment2-kvltphhnjsntwkqhhyzbwx.streamlit.app/
+**Streamlit Application:** https://bank-marketing-predictive-modeling-horspkquxtizjemjroke8d.streamlit.app/
 
 ## d. Models Used
 
@@ -80,6 +80,6 @@ python -m streamlit run app.py
 
 ## Links
 
-- **GitHub Repository:** https://github.com/RajapandiAI/BANKMARKETING-MLASSIGNMENT2
-- **Streamlit Application:** (https://bankmarketing-mlassignment2-kvltphhnjsntwkqhhyzbwx.streamlit.app/)
+- **GitHub Repository:** https://github.com/Ramya726/bank-marketing-predictive-modeling
+- **Streamlit Application:** (https://bank-marketing-predictive-modeling-horspkquxtizjemjroke8d.streamlit.app/)
 - **Dataset:** https://archive.ics.uci.edu/dataset/222/bank+marketing
